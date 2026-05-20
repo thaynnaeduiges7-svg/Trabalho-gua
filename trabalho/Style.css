@@ -88,6 +88,18 @@ li{
     margin: 20px 0;
 }
 
+.acao-item{
+    background-color: #e6f4ea;
+    padding: 20px;
+    border-radius: 8px;
+    border-top: 4px solid #2d6a4f;
+    text-align: center;
+}
+
+.acao-item:hover{
+    transform: translateY(-5px);
+}
+
 .formulario{
     max-width: 500px;
     margin: 20px auto;
